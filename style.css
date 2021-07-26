@@ -68,7 +68,7 @@ h1 {
     margin-left: 5px;
     margin-right: 10px;
     background-color: rgba(0, 0, 0, 0.8);
-    color: #555;
+    color: #00FF00;
 }
 .option:hover {
     background-color: rgba(0, 0, 0, 0.2);
